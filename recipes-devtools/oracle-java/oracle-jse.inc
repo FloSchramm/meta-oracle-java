@@ -1,6 +1,6 @@
 LICENSE_FLAGS = "oracle_java"
 LICENSE = "Oracle_Binary_Code_License_Agreement"
-LIC_FILES_CHKSUM = "\
+LIC_FILES_CHKSUM ?= "\
 	file://${WORKDIR}/${JDK_JRE}${PV}_${PV_UPDATE}/LICENSE;md5=98f46ab6481d87c4d77e0e91a6dbc15f \
 	file://${WORKDIR}/${JDK_JRE}${PV}_${PV_UPDATE}/COPYRIGHT;md5=be9fe5d47a7dcfb78f142f487afb34bb \
 	file://${WORKDIR}/${JDK_JRE}${PV}_${PV_UPDATE}/THIRDPARTYLICENSEREADME.txt;md5=f3a388961d24b8b72d412a079a878cdb \
